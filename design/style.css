@@ -1,0 +1,149 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 1300px;
+  height:1200px;
+  /* background-color: rgb(15, 15, 250); */
+  margin: 30px 30px;
+ 
+}
+.top{
+  width: 1100px;
+  height: 300px;
+  /* background-color: blanchedalmond; */
+  margin: 0 auto;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Clash Grotesk', sans-serif;
+  color: #282828;
+}
+.link{
+  color: #282828;
+  transition: all ;
+  margin-top: 10px;
+  text-decoration: none;
+  padding-top: 10px;
+}
+.link:hover{
+  color: #158252;
+}
+.img{
+  width: 100px;
+  height: 100px;
+  margin-top: 100px;
+}
+.design{
+  font-family:  'Clash Grotesk', sans-serif;;
+  font-size: 50px;
+  padding-top: 10px;
+}
+
+.main{
+  width: 900px;
+  /* height: 800px ;
+  background-color: aqua; */
+  margin: 0 100px;
+  color: #282828;
+}
+.Principles{
+  width: 800px ;
+  height: 200px;
+  /* background-color: rgb(122, 89, 89); */
+  font-family: 'Clash Grotesk', sans-serif;
+  font-weight: 100;
+  margin: 10px 30px;
+}
+.box1{
+  border: 1px solid #dcebe6;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  transition: all 2s;
+}
+.text{
+  display: inline-block;
+  margin-top: 20px;
+  color: #282828  ;
+}
+.box1:hover{
+  margin-top: -0.5px;
+  border: 1px solid #dcebe6;
+}
+.text2{
+  color: #757575;
+  font-size: 18px;
+  margin-top: 5px;
+}
+.icon{
+  width: 800px;
+  height: 500px;
+  /* background-color:red ; */
+  margin: 100px 30px;
+  font-family:'Clash Grotesk', sans-serif ;
+}
+.box2{
+  border: 1px solid #dcebe6;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  transition: all 2s;
+}
+.tieude{
+  display: inline-block;
+  margin-top: 20px;
+  color: #282828 ;
+}
+.box2:hover{
+    margin-top: -0.5px;
+    border: 1px solid #dcebe6;
+}
+.box3{
+  border: 1px solid #dcebe6;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  transition: all 2s;
+}
+.box3:hover{
+  margin-top: -0.5px;
+  border: 1px solid #dcebe6;
+}
+.box4{
+  border: 1px solid #dcebe6;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  transition: all 2s;
+}
+.box4:hover{
+  margin-top: -0.5px;
+  border: 1px solid #dcebe6;
+}
+p{
+  color: #757575;
+}
+h2{
+  color: #404040;
+}
+.bottom{
+ width: 300px;
+ height: 50px;
+ /* background-color: red; */
+ margin: 60px auto;
+ font-size: 20px;
+}
+.linktwo{
+  text-decoration: none;
+  color: #282828;
+  transition: all ;
+  font-family: 'Clash Grotesk', sans-serif;;
+}
+.linktwo:hover{
+  color: #158252;
+}
+
+
+
